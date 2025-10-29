@@ -25,7 +25,7 @@
 
 
 <p align="center">
-<a href="https://github.com/caseyweb"><img title="Author" src="https://files.catbox.moe/51dcx2.jpg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/caseyweb"><img title="Author" src="https://files.catbox.moe/y3j3kl.jpg?style=for-the-badge&logo=github"></a>
 
 
 
@@ -47,6 +47,10 @@
 
 ---
 
+<h1 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+CASEYRHODES+XMD+BETTER+OPTION;🔥+THE+MOST+POWERFUL+WHATSAPP+BOT;💻+DEVELOPER+BY+MR+CASEYRHODES;🚀+CASEYRHODES-XMD+SOLUTIONS;🌈+FAST+⚡+SECURE+🔒+RELIABLE+✅" alt="Typing Animation">
+</h1>
+
 ### 1. Fork This Repository
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
@@ -57,7 +61,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 You will need a session ID to run CASEYRHODES-XMD. Click the button below to obtain your session ID:
 
-<a href='https://six391-wkgc.onrender.com' target="_blank">
+<a href='https://peace-hub-pvhd.vercel.app/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20ID-purple?style=for-the-badge&logo=whatsapp&logoColor=white'/>
 </a>
 <br>
@@ -73,7 +77,7 @@ You will need a session ID to run CASEYRHODES-XMD. Click the button below to obt
 
 <h4 align="left">1. 𝐇𝐄𝐑𝐎𝐊𝐔</h4>
 <p align="left">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/caseyweb/CASEYRHODES-XMD' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Heroku%20Deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://caseydev.netlify.app/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Heroku%20Deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 </p>
 
 <h4 align="left">2. 𝐊𝐎𝐘𝐄𝐁</h4>
